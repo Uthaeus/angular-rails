@@ -20,4 +20,4 @@ var AppComponent = /** @class */ (function () {
     return AppComponent;
 }());
 exports.AppComponent = AppComponent;
-//# sourceMappingURL=app_component.js.map
+//# sourceMappingURL=app.component.js.map
